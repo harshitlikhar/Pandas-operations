@@ -2,4 +2,4 @@
 
 Basic Implementation of Pandas on Pokemon Dataset
 
-Different format of the Dtaaset are already included in the repository
+Different format of the Dataset are already included in the repository
